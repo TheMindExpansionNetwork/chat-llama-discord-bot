@@ -1,0 +1,14 @@
+
+# Comprehensive Requirements for the Mind Expansion Nexus Chat Bot
+discord.py==1.7.3  # Replace with the latest version
+python-dotenv==0.19.1  # Replace with the latest version
+PyYAML==5.4.1  # For handling YAML files
+torch==1.10.0  # PyTorch for machine learning functionalities
+
+# Additional dependencies for planned features (You may need to uncomment and install these based on your final implementation)
+# translate==3.6.1  # For multi-language support
+# Flask==2.0.2  # For web dashboard
+# Django==3.2.9  # For web dashboard (alternative to Flask)
+# SQLAlchemy==1.4.25  # For database integration
+# PyMySQL==1.0.2  # For MySQL database integration
+# pymongo==3.12.0  # For MongoDB database integration
